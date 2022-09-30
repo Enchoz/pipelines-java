@@ -25,7 +25,7 @@ steps:
     script: |
       git clone https://github.com/Enchoz/first-contributions.git
       git config --global user.name "Enchoz"
-      git checkout master
+      git checkout main
       git add .
       git commit -m "abc"
        git push https://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@github.com/Enchoz/first-contributions.git
